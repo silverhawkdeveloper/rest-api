@@ -4,7 +4,7 @@
   "description": "NodeJS\r https://nodejs.org/docs/latest/api/",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "npm run start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Daniel Díaz González",
